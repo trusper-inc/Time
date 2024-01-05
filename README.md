@@ -1,2 +1,2 @@
 # Time
-Time of day generator
+Time of day projects
