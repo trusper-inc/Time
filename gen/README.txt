@@ -1,5 +1,4 @@
-This is our important time-of-day server. To run it from maven, use:
+This is our important time-of-day server. It uses jetty, you can run it
+from maven in the usual way.
 
-    mvn jetty:run
-
-The URL to obtain the time of day is http://HOSTNAME:9999/demo/api/time
+Hit the REST endpoint from a browser to get its output.
