@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
 public class FormatUtils
 {
     public static final DateTimeFormatter dtFmt =
-        DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss zz");
+        DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss zz")
 
     public static String formatTime(ZonedDateTime zdt)
     {

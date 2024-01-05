@@ -77,7 +77,7 @@
                 <configuration>
                     <httpConnector>
                         <!--host>localhost</host-->
-                        <port>9999</port>
+                        <port>9990</port>
                     </httpConnector>
                     <scanIntervalSeconds>10</scanIntervalSeconds>
                     <webApp>
